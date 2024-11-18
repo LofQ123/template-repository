@@ -5,11 +5,7 @@
   "scripts": {
     "test": "jest",
     "prepare": "husky",
-<<<<<<< HEAD
-    "watch": jest --watch *.js
-=======
     "watch": "jest --watch *.js"
->>>>>>> 243322e (add jest watch script)
   },
   "keywords": [],
   "author": "",
